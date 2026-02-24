@@ -50,7 +50,7 @@ DSA-Journey/
 ### 🔹 NeetCode 150
 Categorized solutions based on a structured DSA roadmap.
 
-➡️ [Explore NeetCode 150](./NeetCode-150)
+➡️ [Explore NeetCode 150](https://github.com/Harshit-CoderG/DSA-Journey/tree/main/Neetcode%20150)
 
 ---
 
